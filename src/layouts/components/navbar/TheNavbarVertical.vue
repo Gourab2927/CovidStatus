@@ -21,7 +21,7 @@
         />
 
         <!-- <bookmarks :navbarColor="navbarColor" v-if="windowWidth >= 992" /> -->
-        <img class="logoid sm:inline-flex xl:hidden cursor-pointer p-2" src="@/assets/images/logo/logoCovid.png" alt="ru" />
+        <img class="logoid sm:inline-flex xl:hidden cursor-pointer p-2" src="@/assets/images/logo/logoCovid.png" alt="Coronapandemic" />
 
         <vs-spacer />
         <i18n />
